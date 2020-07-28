@@ -18,3 +18,7 @@ Create a bundle for the browser.
 Open `index.html` to see the result.
 
     open index.html
+
+Or start the dev-server
+
+    npm run start
